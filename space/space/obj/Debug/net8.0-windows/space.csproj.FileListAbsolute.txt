@@ -1,0 +1,17 @@
+D:\space\space\obj\Debug\net8.0-windows\space.Properties.Resources.resources
+D:\space\space\obj\Debug\net8.0-windows\space.csproj.GenerateResource.cache
+D:\space\space\obj\Debug\net8.0-windows\space.GeneratedMSBuildEditorConfig.editorconfig
+D:\space\space\obj\Debug\net8.0-windows\space.AssemblyInfoInputs.cache
+D:\space\space\obj\Debug\net8.0-windows\space.AssemblyInfo.cs
+D:\space\space\obj\Debug\net8.0-windows\space.csproj.CoreCompileInputs.cache
+D:\space\space\bin\Debug\net8.0-windows\space.exe
+D:\space\space\bin\Debug\net8.0-windows\space.deps.json
+D:\space\space\bin\Debug\net8.0-windows\space.runtimeconfig.json
+D:\space\space\bin\Debug\net8.0-windows\space.dll
+D:\space\space\bin\Debug\net8.0-windows\space.pdb
+D:\space\space\obj\Debug\net8.0-windows\space.dll
+D:\space\space\obj\Debug\net8.0-windows\refint\space.dll
+D:\space\space\obj\Debug\net8.0-windows\space.pdb
+D:\space\space\obj\Debug\net8.0-windows\space.genruntimeconfig.cache
+D:\space\space\obj\Debug\net8.0-windows\ref\space.dll
+D:\space\space\obj\Debug\net8.0-windows\space.Form1.resources
